@@ -18,6 +18,12 @@ The firmware was written in python (circuitpython) using the kmk libraries. This
 
 ## BOM Table
 
+|Item                                          |Qty|Supplier |Cost/item|Total Cost|link                                                                                                                                          |
+|----------------------------------------------|---|---------|---------|----------|----------------------------------------------------------------------------------------------------------------------------------------------|
+|Waveshare ESP32-S3-Zero                       |1  |Waveshare|$5.49    |$5.49     |https://www.waveshare.com/esp32-s3-zero.htm?sku=25081                                                                                         |
+|RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm|1  |Temu     |$1.21    |$1.21     |https://www.temu.com/ec/1pc-accesorio-de-robot-s----rotatorio-ec11-potenciometro-digital-para-altavoz-con--5-pines-20mm-g-606209147009488.html|
+|Estimated total shipping                      |1  |         |         |$10.00    |                                                                                                                                              |
+
 ## Screenshots
 
 <img width="541" height="650" alt="image" src="https://github.com/user-attachments/assets/d6c31944-0840-4087-af08-dda6356351b4" />
