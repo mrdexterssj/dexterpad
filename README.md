@@ -39,7 +39,7 @@ _Back render_
 
 _PCB_
 
-<img width="911" height="606" alt="image" src="https://github.com/user-attachments/assets/8a73b53a-53d3-45aa-aaf2-3917c063c5d2" />
+<img width="911" height="606" alt="schematic" src="https://github.com/user-attachments/assets/8a73b53a-53d3-45aa-aaf2-3917c063c5d2" />
 
 _Schematic_
 
